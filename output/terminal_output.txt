@@ -1,0 +1,35 @@
+Prix de l'option américaine (Crank-Nicolson):
+  Prix (Crank-Nicolson): 0.000354228
+
+Données de l'option américaine exportées vers : output/american_option_data.csv
+
+Greeks pour l'option américaine (Crank-Nicolson):
+  Delta: -7.21556e-05
+  Gamma: 0.00180135
+  Theta: 0.00248652
+  Rho:   -0.00741284
+  Vega:  0.0287386
+-----------------------------------------
+
+Black-Scholes Greeks:
+  Delta: -6.82626e-05
+  Gamma: 1.37383e-05
+  Theta: 0.00237301
+  Rho:   -0.00711288
+  Vega:  0.0274602
+-----------------------------------------
+
+Données de Black-Scholes exportées vers : output/black_scholes_data.csv
+
+        BlackScholes:	 0.000332704
+          MonteCarlo:	 0.000419367
+    FiniteDifference:	 0.000370407
+
+Crank-Nicolson Greeks:
+  Delta: -7.89332e-05
+  Gamma: -1.13841e-18
+  Theta: 0.00254012
+  Rho:   -0.00794948
+  Vega:  0.0295547
+Données de différences finies exportées vers : output/finite_difference_data.csv
+
