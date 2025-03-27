@@ -1,2 +1,2 @@
-# Option-Pricing-C
+# Option-Pricing-C++
 Implementation Option Pricing C++
